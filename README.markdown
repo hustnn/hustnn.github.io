@@ -6,7 +6,7 @@ All useful imformation has been centeralized in `_config.yml`.
 
 ## How to use
 ### to one who received this
-Just click [here](http://simonmysun.github.io/HappyBirthdayToJinGe/index.html) to view.
+Just click [here](http://hustnn.github.io/) to view.
 
 ### to one who want's to use this
 Just place the code anywhere you want and make some small changes in `index.html`. It must be the only file you need to change.
